@@ -1,0 +1,945 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		75DAE8122EC98CB0008E4B11 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75DAE7F72EC98CAE008E4B11 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 75DAE7FE2EC98CAE008E4B11;
+			remoteInfo = TriviaArenaTV;
+		};
+		75DAE81C2EC98CB0008E4B11 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75DAE7F72EC98CAE008E4B11 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 75DAE7FE2EC98CAE008E4B11;
+			remoteInfo = TriviaArenaTV;
+		};
+		75DAE9302EC9A61B008E4B11 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75DAE7F72EC98CAE008E4B11 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 75DAE91D2EC9A61A008E4B11;
+			remoteInfo = TriviaArenaController;
+		};
+		75DAE93A2EC9A61B008E4B11 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 75DAE7F72EC98CAE008E4B11 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 75DAE91D2EC9A61A008E4B11;
+			remoteInfo = TriviaArenaController;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		75DAE7FF2EC98CAE008E4B11 /* TriviaArenaTV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TriviaArenaTV.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		75DAE8112EC98CB0008E4B11 /* TriviaArenaTVTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TriviaArenaTVTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		75DAE81B2EC98CB0008E4B11 /* TriviaArenaTVUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TriviaArenaTVUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		75DAE91E2EC9A61A008E4B11 /* TriviaArenaController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TriviaArenaController.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		75DAE92F2EC9A61B008E4B11 /* TriviaArenaControllerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TriviaArenaControllerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		75DAE9392EC9A61B008E4B11 /* TriviaArenaControllerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TriviaArenaControllerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		75DAE8012EC98CAE008E4B11 /* TriviaArenaTV */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TriviaArenaTV;
+			sourceTree = "<group>";
+		};
+		75DAE8142EC98CB0008E4B11 /* TriviaArenaTVTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TriviaArenaTVTests;
+			sourceTree = "<group>";
+		};
+		75DAE81E2EC98CB0008E4B11 /* TriviaArenaTVUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TriviaArenaTVUITests;
+			sourceTree = "<group>";
+		};
+		75DAE91F2EC9A61A008E4B11 /* TriviaArenaController */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TriviaArenaController;
+			sourceTree = "<group>";
+		};
+		75DAE9322EC9A61B008E4B11 /* TriviaArenaControllerTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TriviaArenaControllerTests;
+			sourceTree = "<group>";
+		};
+		75DAE93C2EC9A61B008E4B11 /* TriviaArenaControllerUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = TriviaArenaControllerUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		75DAE7FC2EC98CAE008E4B11 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75DAE80E2EC98CB0008E4B11 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75DAE8182EC98CB0008E4B11 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75DAE91B2EC9A61A008E4B11 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75DAE92C2EC9A61B008E4B11 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75DAE9362EC9A61B008E4B11 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		75DAE7F62EC98CAE008E4B11 = {
+			isa = PBXGroup;
+			children = (
+				75DAE8012EC98CAE008E4B11 /* TriviaArenaTV */,
+				75DAE8142EC98CB0008E4B11 /* TriviaArenaTVTests */,
+				75DAE81E2EC98CB0008E4B11 /* TriviaArenaTVUITests */,
+				75DAE91F2EC9A61A008E4B11 /* TriviaArenaController */,
+				75DAE9322EC9A61B008E4B11 /* TriviaArenaControllerTests */,
+				75DAE93C2EC9A61B008E4B11 /* TriviaArenaControllerUITests */,
+				75DAE8002EC98CAE008E4B11 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		75DAE8002EC98CAE008E4B11 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				75DAE7FF2EC98CAE008E4B11 /* TriviaArenaTV.app */,
+				75DAE8112EC98CB0008E4B11 /* TriviaArenaTVTests.xctest */,
+				75DAE81B2EC98CB0008E4B11 /* TriviaArenaTVUITests.xctest */,
+				75DAE91E2EC9A61A008E4B11 /* TriviaArenaController.app */,
+				75DAE92F2EC9A61B008E4B11 /* TriviaArenaControllerTests.xctest */,
+				75DAE9392EC9A61B008E4B11 /* TriviaArenaControllerUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		75DAE7FE2EC98CAE008E4B11 /* TriviaArenaTV */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 75DAE8252EC98CB0008E4B11 /* Build configuration list for PBXNativeTarget "TriviaArenaTV" */;
+			buildPhases = (
+				75DAE7FB2EC98CAE008E4B11 /* Sources */,
+				75DAE7FC2EC98CAE008E4B11 /* Frameworks */,
+				75DAE7FD2EC98CAE008E4B11 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				75DAE8012EC98CAE008E4B11 /* TriviaArenaTV */,
+			);
+			name = TriviaArenaTV;
+			packageProductDependencies = (
+			);
+			productName = TriviaArenaTV;
+			productReference = 75DAE7FF2EC98CAE008E4B11 /* TriviaArenaTV.app */;
+			productType = "com.apple.product-type.application";
+		};
+		75DAE8102EC98CB0008E4B11 /* TriviaArenaTVTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 75DAE8282EC98CB0008E4B11 /* Build configuration list for PBXNativeTarget "TriviaArenaTVTests" */;
+			buildPhases = (
+				75DAE80D2EC98CB0008E4B11 /* Sources */,
+				75DAE80E2EC98CB0008E4B11 /* Frameworks */,
+				75DAE80F2EC98CB0008E4B11 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				75DAE8132EC98CB0008E4B11 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				75DAE8142EC98CB0008E4B11 /* TriviaArenaTVTests */,
+			);
+			name = TriviaArenaTVTests;
+			packageProductDependencies = (
+			);
+			productName = TriviaArenaTVTests;
+			productReference = 75DAE8112EC98CB0008E4B11 /* TriviaArenaTVTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		75DAE81A2EC98CB0008E4B11 /* TriviaArenaTVUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 75DAE82B2EC98CB0008E4B11 /* Build configuration list for PBXNativeTarget "TriviaArenaTVUITests" */;
+			buildPhases = (
+				75DAE8172EC98CB0008E4B11 /* Sources */,
+				75DAE8182EC98CB0008E4B11 /* Frameworks */,
+				75DAE8192EC98CB0008E4B11 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				75DAE81D2EC98CB0008E4B11 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				75DAE81E2EC98CB0008E4B11 /* TriviaArenaTVUITests */,
+			);
+			name = TriviaArenaTVUITests;
+			packageProductDependencies = (
+			);
+			productName = TriviaArenaTVUITests;
+			productReference = 75DAE81B2EC98CB0008E4B11 /* TriviaArenaTVUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		75DAE91D2EC9A61A008E4B11 /* TriviaArenaController */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 75DAE9472EC9A61B008E4B11 /* Build configuration list for PBXNativeTarget "TriviaArenaController" */;
+			buildPhases = (
+				75DAE91A2EC9A61A008E4B11 /* Sources */,
+				75DAE91B2EC9A61A008E4B11 /* Frameworks */,
+				75DAE91C2EC9A61A008E4B11 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				75DAE91F2EC9A61A008E4B11 /* TriviaArenaController */,
+			);
+			name = TriviaArenaController;
+			packageProductDependencies = (
+			);
+			productName = TriviaArenaController;
+			productReference = 75DAE91E2EC9A61A008E4B11 /* TriviaArenaController.app */;
+			productType = "com.apple.product-type.application";
+		};
+		75DAE92E2EC9A61B008E4B11 /* TriviaArenaControllerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 75DAE9482EC9A61B008E4B11 /* Build configuration list for PBXNativeTarget "TriviaArenaControllerTests" */;
+			buildPhases = (
+				75DAE92B2EC9A61B008E4B11 /* Sources */,
+				75DAE92C2EC9A61B008E4B11 /* Frameworks */,
+				75DAE92D2EC9A61B008E4B11 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				75DAE9312EC9A61B008E4B11 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				75DAE9322EC9A61B008E4B11 /* TriviaArenaControllerTests */,
+			);
+			name = TriviaArenaControllerTests;
+			packageProductDependencies = (
+			);
+			productName = TriviaArenaControllerTests;
+			productReference = 75DAE92F2EC9A61B008E4B11 /* TriviaArenaControllerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		75DAE9382EC9A61B008E4B11 /* TriviaArenaControllerUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 75DAE9492EC9A61B008E4B11 /* Build configuration list for PBXNativeTarget "TriviaArenaControllerUITests" */;
+			buildPhases = (
+				75DAE9352EC9A61B008E4B11 /* Sources */,
+				75DAE9362EC9A61B008E4B11 /* Frameworks */,
+				75DAE9372EC9A61B008E4B11 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				75DAE93B2EC9A61B008E4B11 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				75DAE93C2EC9A61B008E4B11 /* TriviaArenaControllerUITests */,
+			);
+			name = TriviaArenaControllerUITests;
+			packageProductDependencies = (
+			);
+			productName = TriviaArenaControllerUITests;
+			productReference = 75DAE9392EC9A61B008E4B11 /* TriviaArenaControllerUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		75DAE7F72EC98CAE008E4B11 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2600;
+				LastUpgradeCheck = 2600;
+				TargetAttributes = {
+					75DAE7FE2EC98CAE008E4B11 = {
+						CreatedOnToolsVersion = 26.0.1;
+					};
+					75DAE8102EC98CB0008E4B11 = {
+						CreatedOnToolsVersion = 26.0.1;
+						TestTargetID = 75DAE7FE2EC98CAE008E4B11;
+					};
+					75DAE81A2EC98CB0008E4B11 = {
+						CreatedOnToolsVersion = 26.0.1;
+						TestTargetID = 75DAE7FE2EC98CAE008E4B11;
+					};
+					75DAE91D2EC9A61A008E4B11 = {
+						CreatedOnToolsVersion = 26.0.1;
+					};
+					75DAE92E2EC9A61B008E4B11 = {
+						CreatedOnToolsVersion = 26.0.1;
+						TestTargetID = 75DAE91D2EC9A61A008E4B11;
+					};
+					75DAE9382EC9A61B008E4B11 = {
+						CreatedOnToolsVersion = 26.0.1;
+						TestTargetID = 75DAE91D2EC9A61A008E4B11;
+					};
+				};
+			};
+			buildConfigurationList = 75DAE7FA2EC98CAE008E4B11 /* Build configuration list for PBXProject "TriviaArenaTV" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 75DAE7F62EC98CAE008E4B11;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 75DAE8002EC98CAE008E4B11 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				75DAE7FE2EC98CAE008E4B11 /* TriviaArenaTV */,
+				75DAE8102EC98CB0008E4B11 /* TriviaArenaTVTests */,
+				75DAE81A2EC98CB0008E4B11 /* TriviaArenaTVUITests */,
+				75DAE91D2EC9A61A008E4B11 /* TriviaArenaController */,
+				75DAE92E2EC9A61B008E4B11 /* TriviaArenaControllerTests */,
+				75DAE9382EC9A61B008E4B11 /* TriviaArenaControllerUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		75DAE7FD2EC98CAE008E4B11 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75DAE80F2EC98CB0008E4B11 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75DAE8192EC98CB0008E4B11 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75DAE91C2EC9A61A008E4B11 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75DAE92D2EC9A61B008E4B11 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75DAE9372EC9A61B008E4B11 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		75DAE7FB2EC98CAE008E4B11 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75DAE80D2EC98CB0008E4B11 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75DAE8172EC98CB0008E4B11 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75DAE91A2EC9A61A008E4B11 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75DAE92B2EC9A61B008E4B11 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		75DAE9352EC9A61B008E4B11 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		75DAE8132EC98CB0008E4B11 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 75DAE7FE2EC98CAE008E4B11 /* TriviaArenaTV */;
+			targetProxy = 75DAE8122EC98CB0008E4B11 /* PBXContainerItemProxy */;
+		};
+		75DAE81D2EC98CB0008E4B11 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 75DAE7FE2EC98CAE008E4B11 /* TriviaArenaTV */;
+			targetProxy = 75DAE81C2EC98CB0008E4B11 /* PBXContainerItemProxy */;
+		};
+		75DAE9312EC9A61B008E4B11 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 75DAE91D2EC9A61A008E4B11 /* TriviaArenaController */;
+			targetProxy = 75DAE9302EC9A61B008E4B11 /* PBXContainerItemProxy */;
+		};
+		75DAE93B2EC9A61B008E4B11 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 75DAE91D2EC9A61A008E4B11 /* TriviaArenaController */;
+			targetProxy = 75DAE93A2EC9A61B008E4B11 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		75DAE8232EC98CB0008E4B11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = appletvos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TVOS_DEPLOYMENT_TARGET = 26.0;
+			};
+			name = Debug;
+		};
+		75DAE8242EC98CB0008E4B11 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = appletvos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				TVOS_DEPLOYMENT_TARGET = 26.0;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		75DAE8262EC98CB0008E4B11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Automatic;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sadeepa.TriviaArenaTV;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "appletvos appletvsimulator iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,3";
+			};
+			name = Debug;
+		};
+		75DAE8272EC98CB0008E4B11 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Automatic;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sadeepa.TriviaArenaTV;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "appletvos appletvsimulator iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,3";
+			};
+			name = Release;
+		};
+		75DAE8292EC98CB0008E4B11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sadeepa.TriviaArenaTVTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TriviaArenaTV.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TriviaArenaTV";
+				TVOS_DEPLOYMENT_TARGET = 26.0;
+			};
+			name = Debug;
+		};
+		75DAE82A2EC98CB0008E4B11 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sadeepa.TriviaArenaTVTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TriviaArenaTV.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TriviaArenaTV";
+				TVOS_DEPLOYMENT_TARGET = 26.0;
+			};
+			name = Release;
+		};
+		75DAE82C2EC98CB0008E4B11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sadeepa.TriviaArenaTVUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TEST_TARGET_NAME = TriviaArenaTV;
+			};
+			name = Debug;
+		};
+		75DAE82D2EC98CB0008E4B11 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sadeepa.TriviaArenaTVUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TEST_TARGET_NAME = TriviaArenaTV;
+			};
+			name = Release;
+		};
+		75DAE9412EC9A61B008E4B11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sadeepa.TriviaArenaController;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		75DAE9422EC9A61B008E4B11 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sadeepa.TriviaArenaController;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		75DAE9432EC9A61B008E4B11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sadeepa.TriviaArenaControllerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TriviaArenaController.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TriviaArenaController";
+			};
+			name = Debug;
+		};
+		75DAE9442EC9A61B008E4B11 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sadeepa.TriviaArenaControllerTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TriviaArenaController.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TriviaArenaController";
+			};
+			name = Release;
+		};
+		75DAE9452EC9A61B008E4B11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sadeepa.TriviaArenaControllerUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TriviaArenaController;
+			};
+			name = Debug;
+		};
+		75DAE9462EC9A61B008E4B11 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sadeepa.TriviaArenaControllerUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = TriviaArenaController;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		75DAE7FA2EC98CAE008E4B11 /* Build configuration list for PBXProject "TriviaArenaTV" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				75DAE8232EC98CB0008E4B11 /* Debug */,
+				75DAE8242EC98CB0008E4B11 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		75DAE8252EC98CB0008E4B11 /* Build configuration list for PBXNativeTarget "TriviaArenaTV" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				75DAE8262EC98CB0008E4B11 /* Debug */,
+				75DAE8272EC98CB0008E4B11 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		75DAE8282EC98CB0008E4B11 /* Build configuration list for PBXNativeTarget "TriviaArenaTVTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				75DAE8292EC98CB0008E4B11 /* Debug */,
+				75DAE82A2EC98CB0008E4B11 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		75DAE82B2EC98CB0008E4B11 /* Build configuration list for PBXNativeTarget "TriviaArenaTVUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				75DAE82C2EC98CB0008E4B11 /* Debug */,
+				75DAE82D2EC98CB0008E4B11 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		75DAE9472EC9A61B008E4B11 /* Build configuration list for PBXNativeTarget "TriviaArenaController" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				75DAE9412EC9A61B008E4B11 /* Debug */,
+				75DAE9422EC9A61B008E4B11 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		75DAE9482EC9A61B008E4B11 /* Build configuration list for PBXNativeTarget "TriviaArenaControllerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				75DAE9432EC9A61B008E4B11 /* Debug */,
+				75DAE9442EC9A61B008E4B11 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		75DAE9492EC9A61B008E4B11 /* Build configuration list for PBXNativeTarget "TriviaArenaControllerUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				75DAE9452EC9A61B008E4B11 /* Debug */,
+				75DAE9462EC9A61B008E4B11 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 75DAE7F72EC98CAE008E4B11 /* Project object */;
+}
